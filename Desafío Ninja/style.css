@@ -1,0 +1,14 @@
+#character {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    background-image: url("img/down1.png");
+    width: 59px;
+    height: 86px;
+}
+
+#background {
+    background-image: url("img/white_bg.jpg");
+    width: 900px;
+    height: 750px;
+}
